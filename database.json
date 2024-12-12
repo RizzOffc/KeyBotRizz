@@ -1,7 +1,10 @@
 {
-  "users": [
+  "keys": [
     {
-      "password": "rizzhosting"
+      "key": "rizzhost",
+      "numbers": [
+        "6283897845063"
+      ]
     }
   ]
-}
+    }
